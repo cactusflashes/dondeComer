@@ -128,7 +128,7 @@ function startSpin(){
 function revealAnswer(){
     const rest = document.querySelector('#rest'); //restaurants 
     const again = document.querySelector('#again'); //again
-    const answers = ["Chili's Bar and Grill", 'Sprouts', 'ATL Wings',
+    const answers = ["Chili's", 'Sprouts', 'ATL Wings',
     'McDonalds', "NiMarco's", 'My Pita Wrap', "Oscar's", 
     'Chic-Fil-A', 'Raising Canes', 'Panda Express', "Jersey Mike's",];
 
