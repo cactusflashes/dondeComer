@@ -2,7 +2,7 @@ body {
     background-color: #ffefcd;
     margin: 0;
     padding: 0;
-    overflow: visible;
+    overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
