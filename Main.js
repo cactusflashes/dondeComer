@@ -130,7 +130,8 @@ function revealAnswer(){
     const again = document.querySelector('#again'); //again
     const answers = ["Chili's", 'Sprouts', 'ATL Wings',
     'McDonalds', "NiMarco's", 'My Pita Wrap', "Oscar's", 
-    'Chic-Fil-A', 'Raising Canes', 'Panda Express', "Jersey Mike's",];
+    'Chic-Fil-A', 'Raising Canes', 'Panda Express', "Jersey Mike's", 
+    "Bosa Doughnuts", "Firehouse Subs"];
 
     setTimeout(function(){ 
         const randomIndex = Math.floor(Math.random() * answers.length);
